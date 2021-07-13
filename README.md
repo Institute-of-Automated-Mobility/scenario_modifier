@@ -14,7 +14,7 @@ My method of use:
 The subfolders will be generated with the date and time they were created, and the individual files have a naming construct like so:
 ID-<ID Number>_<Template File Name>_<ego_speed>_<other_speed>_<relative_distance_to_ego>.xosc
   
-For the time being, the GUI is the only method of use but command-line use will be implemented in the near future.
+COMMAND LINE VERSION: use "python CMD-ScenMod-1.0.py <scenario_template_file>.xosc <config_file>.json"
   
 If you come across any bugs or face any issues, please email me at: srahimi8@asu.edu
   
