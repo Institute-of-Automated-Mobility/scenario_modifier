@@ -1,0 +1,18 @@
+{"Braking":{
+        "ego_speed":[16.6],
+        "other_speed":[10, 6],
+        "relative_distance_to_ego":[75, 55],
+        "event_relative_distance":[55, 35], 
+        "ego_controller":["AlksFuzzySimpleVehicleControl", "RssSimpleVehicleControl_CC", "RssSimpleVehicleControl"]
+        }, 
+"Moving": {}, 
+"Cut_out": 
+    {
+        "ego_speed":[16.6],
+        "other_speed":[10, 6],
+        "relative_distance_to_ego":[75, 55],
+        "blocking_relative_distance_to_ego":[105, 80],
+        "event_relative_distance":[55, 35], 
+        "ego_controller":["AlksFuzzySimpleVehicleControl", "RssSimpleVehicleControl_CC", "RssSimpleVehicleControl"]
+        }
+}
